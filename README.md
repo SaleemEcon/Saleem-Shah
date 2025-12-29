@@ -1,3 +1,2 @@
 Hi Everyone, I am Saleem Shah, PhD economics student. 
 My research lies at the intersection of development economics, health economics, and economic history. I study how institutions and policies—both historical and contemporary, and cultural norms—shape health, human capital, and long-run economic development. I employ micro-data, geospatial information, and quasi-experimental methods to generate causal evidence that can inform policies aimed at improving welfare and reducing inequality. 
-For CV click: https://github.com/SaleemEcon/Saleem-Shah-Resume/blob/main/Saleem%20Shah%20CV.pdf
